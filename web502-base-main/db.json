@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/2/1.jpg",
+        "https://cdn.dummyjson.com/product-images/2/2.jpg",
+        "https://cdn.dummyjson.com/product-images/2/3.jpg",
+        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/5/1.jpg",
+        "https://cdn.dummyjson.com/product-images/5/2.jpg",
+        "https://cdn.dummyjson.com/product-images/5/3.jpg"
+      ]
+    },
+    {
+      "title": "MacBook Pro12",
+      "price": 1749411,
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September22, November",
+      "id": 6
+    },
+    {
+      "title": "duong",
+      "price": 123,
+      "description": "duong1",
+      "id": 7
+    },
+    {
+      "title": "duong",
+      "price": 123,
+      "description": "duong1",
+      "id": 8
+    },
+    {
+      "title": "duong",
+      "price": 123,
+      "description": "duong1",
+      "id": 9
+    },
+    {
+      "title": "d123",
+      "price": 123,
+      "description": "d1",
+      "id": 12
+    },
+    {
+      "title": "d123",
+      "price": 123,
+      "description": "d1",
+      "id": 14
+    },
+    {
+      "title": "duong",
+      "price": 123,
+      "description": "d123",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "email": "duong@gmail.com",
+      "password": "$2a$10$wzuNGYaUahRZ.6cibTGKlefPXU9SVXnzwIFs/u4DUgD4Nh19qlxTC",
+      "id": 1
+    },
+    {
+      "email": "11duong@gmail.com",
+      "password": "$2a$10$N5YdFXocaZOcB3CQB.1r6ejQ.Iu6qBorft3/c.72QX.71fGtgYREy",
+      "id": 2
+    }
+  ]
+}
